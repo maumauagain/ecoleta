@@ -42,5 +42,7 @@ O projeto **Ecoleta** é um site que tem como intuito fornecer pontos para colet
 
 ---
 
-Desenvolvido por Amauri Martins ⚓
+<h4 align="center">
+    Desenvolvido por <a href="https://www.linkedin.com/in/amauri-martins-júnior-73090a169" target="_blank">Amauri Martins </a> ⚓
+</h4>
 
