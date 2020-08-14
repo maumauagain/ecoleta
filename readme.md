@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="./public/assets/screenshot.jpg" alt="logo" />
+    <img src="./media/screenshot.JPG" alt="Homepage"/>
 </h1>
 
 ## 📝 Sobre
